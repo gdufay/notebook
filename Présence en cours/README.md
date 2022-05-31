@@ -2,6 +2,10 @@
 
 Analyse de données sur le nombre de personne présent en cours en Sprint entre mars et mai 2022.
 
+## Rendu
+
+Le rendu est visible [ici](https://voila.oh-my-g.fr/voila/render/Présence%20en%20cours/Presence-en-cours.ipynb)
+
 ## Données
 
 Les données sont au format suivant :
